@@ -1,0 +1,6 @@
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.dll
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojResolveAssemblyReference.cache
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.dll
+C:\Users\darshan\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
